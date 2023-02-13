@@ -8,7 +8,7 @@ but in the usual separate Maven `src` directories:
 
 - `src/main/java`:
   - `IntStack.java`: Implementation of a simple stack.
-  - `StackMain.java`: A class a main method demonstrating same sample usage of the stack.
+  - `IntStackMain.java`: A class a main method demonstrating same sample usage of the stack.
 
 - `src/test/java`:
   - `IntStackTest.java`: A skeleton for a class containing JUnit4 test cases for the `IntStack` class.
