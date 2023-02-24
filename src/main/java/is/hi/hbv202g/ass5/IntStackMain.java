@@ -11,5 +11,6 @@ public class IntStackMain {
         System.out.println("isFull=" + myStack.isFull());
         System.out.println("Pop: "+myStack.pop());
         System.out.println("Pop: "+myStack.pop());
+        System.out.println("isEmpty=" + myStack.isEmpty());
     }
 }
